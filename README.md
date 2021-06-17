@@ -1,4 +1,4 @@
-# 梦弘浏览器 - 全新自主研发，打破国外垄断
+# 爱墙浏览器 - 全新自主研发，打破国外垄断
 
 1. 这是我们全新自主研发的浏览器
 2. 当然我不是 Chrome 套壳
@@ -9,6 +9,4 @@
 7. 不过第 6 点说的不是这个版本，而是 [monyhar-lite](https://github.com/monyhar/monyhar-lite)
 
 
-# Acknowledgement
 
-创意来自[此处](https://www.zhihu.com/question/463566649/answer/1929522948)，我不是答主。
