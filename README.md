@@ -36,3 +36,5 @@
 sed -i "s/chromium/lovewall/g" $(grep -rl chromium)
 rename "s/chromium/lovewall/" $(find -name chromium)
 ```
+
+https://mp.weixin.qq.com/s/NTGHOzTFnThaN37T0h1kYA
